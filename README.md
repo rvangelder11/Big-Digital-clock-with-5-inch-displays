@@ -14,7 +14,8 @@ The clock has a web interface with the following functions:
 - Go back to clock function
 
 ![Inside 6 digits display](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/d76a12e9-9b08-444d-879d-8efd1917c493)
- 
+ ![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/e632c726-b05e-482b-af26-7b5857233a3a)
+
 As an option, it is  possible to connect three push buttons for the stopwatch functions Start, Reset and Lap.
 
 An optional DS18B20 temperature sensor can be added that will display the temperature every 30 seconds.
