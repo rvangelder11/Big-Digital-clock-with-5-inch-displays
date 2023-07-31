@@ -12,7 +12,8 @@
 ![IMG_0087](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/3e5c3118-16dc-4459-b419-f9761e4b784a)
 
 - connect the outputs of the TPIC6C596 Large Digit Driver Driver to the corresponding pins of the display.
-- PLEAS NOTE: Add a 1k resistor between the dp connection on the pcb and th edisplay. the DP is only one led, the other segments are 5 leds in series. Failing to do so will burn out the DP led!
+- PLEAS NOTE: Add a 1k resistor between the dp connection on the pcb and the display. the DP is only one led, the other segments are 5 leds in series. Failing to do so will burn out the DP led!
+
 ![IMG_0088](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/52aa3d7c-cbd4-4f13-a60b-4ed9238325d2)
 
 Check whether the input circuit produces a voltage around 9 volts for the 4 inch displays and around 10.5 for the 5 inch displays. Check whether the 5V pin of the ESP8266 socket is 5V. 
