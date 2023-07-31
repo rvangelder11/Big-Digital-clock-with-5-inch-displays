@@ -20,7 +20,8 @@ Check via USB that the ESP8266 is working.
 
 Connect the ESP8266 with the rightmost display. I have made a control PCB for that, but you could also use individual Female-Female Dupont wires:
 ![IMG_0089](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/a459d1b5-8848-4b56-99bb-7780aaee2879)
-I you want to be very carefull, you can decouple the other displays by disconnecting the left 6pin wire of the rightmost display.
+
+If you want to be very carefull, you can decouple the other displays by disconnecting the left 6pin wire of the rightmost display.
 
 in the picture you see at the left top a 7805 voltage regulator with 2x100nF decoupling capacitors. Directly below you see a buck converter to regulat the incoming voltage from the power supply. I have added that to reduce flickering in the Led displays due to the number of segments that are illuminated. You can start without that and at it when needed.In the right top you see the 3.5 mm entry to fit a DS18B20 temperature sensor.
 Just above the display, in the middle, you see the wires towards the push buttons for the stopwatch function.
