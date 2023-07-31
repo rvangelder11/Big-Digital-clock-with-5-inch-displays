@@ -14,7 +14,7 @@ The clock has a web interface with the following functions:
 - Go back to clock function
 
 ![Inside 6 digits display](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/d76a12e9-9b08-444d-879d-8efd1917c493)
- ![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/e632c726-b05e-482b-af26-7b5857233a3a)
+ 
 
 As an option, it is  possible to connect three push buttons for the stopwatch functions Start, Reset and Lap.
 
@@ -33,6 +33,6 @@ The displays are glued in a precisely cut passepartout and put in a picture fram
 
 ## 5 Digits Time display:
 ![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/13aed81f-8734-4943-9268-e9f4336f618a)
-!https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/pictures/5DigitsTime.jpeg
+!(https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/pictures/5DigitsTime.jpeg)
 ## inside picture of the first version:
 ![04E3923D-DB4A-49AA-984C-2F95C857FE4E](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/90b241ce-252c-43e6-af24-74f1e56b5de8)
