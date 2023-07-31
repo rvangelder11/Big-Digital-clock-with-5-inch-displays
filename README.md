@@ -11,6 +11,7 @@ The clock has a web interface with the following functions:
 •	Show the lap time (display freezes, but stopwatch keeps running)
 •	Reset the stopwatch to zero
 •	Go back to clock function
+
 ![Inside 6 digits display](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/d76a12e9-9b08-444d-879d-8efd1917c493)
  
 As an option, it is also possible to connect three push buttons for the stopwatch functions Start, Reset and Lap.
