@@ -22,7 +22,7 @@ Check whether the input circuit produces a voltage around 9 volts for the 4 inch
 Program the ESP8266 and mount this on the control pcb or connect it to the power supply.
 Check via USB that the ESP8266 is working.
 
-Connect the ESP8266 with the rightmost display. you can use a PCB for that, but you could also use individual Female-Female Dupont wires:
+Connect the ESP8266 with the rightmost display. you can use a PCB (Gerber_PCB_grote 7 segment displays_2_2023-07-16.zip) for that, but you could also use individual Female-Female Dupont wires:
 
 ![IMG_0089](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/a459d1b5-8848-4b56-99bb-7780aaee2879)
 
