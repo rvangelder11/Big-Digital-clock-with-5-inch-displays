@@ -19,6 +19,7 @@ Program the ESP8266 and mount this on the control pcb or connect it to the power
 Check via USB that the ESP8266 is working.
 
 Connect the ESP8266 with the rightmost display. I have made a control PCB for that, but you could also use individual Female-Female Dupont wires:
+
 ![IMG_0089](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/a459d1b5-8848-4b56-99bb-7780aaee2879)
 
 If you want to be very carefull, you can decouple the other displays by disconnecting the left 6pin wire of the rightmost display.
