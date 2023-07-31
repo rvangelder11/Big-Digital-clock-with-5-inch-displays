@@ -19,6 +19,8 @@ As an option, it is  possible to connect three push buttons for the stopwatch fu
 
 An optional DS18B20 temperature sensor can be added that will display the temperature every 30 seconds.
 
+Optionally, the brightness can be dimmed when it gets darker via an LDR (for use in a bedroom).
+
 A printed circuit has been made for the control function and separate PCB’s have been made to accommodate the shift registers that control the displays.
 The displays are glued in a precisely cut passepartout and put in a picture frame of IKEA, type RIBBA, 50x23 for the 4 inch displays and 50x70 for the 5 inch displays. If you only use 4 displays of 4 inch, you could use a 30x40 picture frame. The PCB’s are put in the back of the picture frame. The clock can be used standing or hanging.
 
