@@ -23,10 +23,13 @@ A printed circuit has been made for the control function and separate PCB’s ha
 The displays are glued in a precisely cut passepartout and put in a picture frame of IKEA, type RIBBA, 50x23 for the 4 inch displays and 50x70 for the 5 inch displays. If you only use 4 displays of 4 inch, you could use a 30x40 picture frame. The PCB’s are put in the back of the picture frame. The clock can be used standing or hanging.
 
 ## 5 Digits Time display:
-![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/d21caba7-5144-4786-bd3f-bc908ca3e79a)
 
 ## 6 Digits Time Display:
+![6DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/a0f3204d-f64c-49c1-ad91-7e9fe9fb2973)
 
+![6DigitsTemp](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/98fc21ce-9cca-4ef3-ae99-019a1ba920a0)
+
+![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/13aed81f-8734-4943-9268-e9f4336f618a)
 ## 6 Digits Temperature Display:
 
 ## inside picture of the first version:
