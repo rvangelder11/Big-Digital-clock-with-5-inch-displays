@@ -12,7 +12,7 @@
 ![IMG_0087](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/3e5c3118-16dc-4459-b419-f9761e4b784a)
 
 - connect the outputs of the TPIC6C596 Large Digit Driver Driver to the corresponding pins of the display.
-- **PLEASE NOTE**: Add a 1k resistor between the dp connection on the pcb and the display. the DP is only one led, the other segments are 5 leds in series. Failing to do so will burn out the DP led!
+- **PLEASE NOTE**: Because the DP is only one led (the other segments are 5 leds). A 1k resistor (or similar) must be inserted between the dp connection on the pcb and the display. Failing to do so will burn out the DP led!
 
 ![IMG_0088](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/52aa3d7c-cbd4-4f13-a60b-4ed9238325d2)
 
