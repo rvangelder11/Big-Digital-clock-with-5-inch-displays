@@ -1,5 +1,5 @@
-- 1x black passepartout 50x70cm
-- 1x	black Ribba picture frame 50x70 cm
+- 1x black passepartout 50x70cm (local bookstore)
+- 1x	black Ribba picture frame 50x70 cm (IKEA)
 - 1x	ESP8266 Wemos D1
 - 6x	5 inch 7 segment displays 50101BS
 - 6x  DC 5V TPIC6C596 Large Digit Driver Driver
