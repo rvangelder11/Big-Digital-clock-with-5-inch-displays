@@ -5,6 +5,7 @@ To control these I use an ESP8266 that connects to NTP via Wifi, to assure the c
 The 4 inch clock shows hours and minutes, the 5 inch clock shows hours, minutes and seconds. I use the decimal point to separate these.
 
 The clock has a web interface with the following functions:
+
 - Countdown from a preset time in hh:mm:ss
 - Countup to a preset time in hh:mm:ss
 - Start a stopwatch function in mm:ss:ms
