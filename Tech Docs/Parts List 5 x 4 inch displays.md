@@ -1,8 +1,9 @@
 - 1x black passepartout 50x70cm (local bookstore)
 - 1x	black Ribba picture frame 50x70 cm (IKEA)
-- 1x	ESP8266 Wemos D1
-- 6x	5 inch 7 segment displays 50101BS
-- 6x  DC 5V TPIC6C596 Large Digit Driver Driver
-- 1x	power supply 3-15v, 3A, EU or US depending on need
-- 6x  6 wire Dupont cable 10 cm Female-Female
-- 2x LM2596	buck converter
+- 1x	ESP8266 Wemos D1 (AliExpress)
+- 6x	5 inch 7 segment displays 50101BS (AliExpress)
+- 6x  DC 5V TPIC6C596 Large Digit Driver Driver (AliExpress)
+- 1x	power supply 3-15v, 3A, EU or US depending on need (AliExpress)
+- 6x  6 wire Dupont cable 10 cm Female-Female (AliExpress)
+- 2x LM2596	buck converter (AliExpress)
+- Mounting material to mount backside of picture frame
