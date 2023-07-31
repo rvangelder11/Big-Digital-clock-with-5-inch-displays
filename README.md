@@ -32,6 +32,6 @@ The displays are glued in a precisely cut passepartout and put in a picture fram
 
 ## 5 Digits Time display:
 ![5DigitsTime](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/13aed81f-8734-4943-9268-e9f4336f618a)
-https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/pictures/5DigitsTime.jpeg
+!https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/pictures/5DigitsTime.jpeg
 ## inside picture of the first version:
 ![04E3923D-DB4A-49AA-984C-2F95C857FE4E](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/90b241ce-252c-43e6-af24-74f1e56b5de8)
