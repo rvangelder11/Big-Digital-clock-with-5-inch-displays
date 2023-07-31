@@ -29,7 +29,8 @@ Just above the display, in the middle, you see the wires towards the push button
 
 When everything works OK, you can add the optional temperature sensor and/or the optional stopwatch push buttons.
 
-As a last activity: mount the backside to the picture frame. This can be done with an alluminum L-profile, or with L-shaped brackets, for example L form 2020, which should have m4 thread, but I received these with M5 thread. I drilled one side with a drill of 6.5 mm to be able to use a wood scew:
+As a last activity: mount the backside to the picture frame. This can be done with an alluminum L-profile, or with L-shaped brackets, for example L form 2020, which should have m4 thread, but I received these with M5 thread. I drilled one side with a drill of 6.5 mm to be able to use a wood screw:
+
 ![IMG_0090](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/15e7f65d-7957-4ac2-8088-c239942cc328)
 ![IMG_0091 (2)](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/0ba314a6-bf45-4f83-8c4d-547fc7f18401)
 
