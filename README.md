@@ -16,3 +16,4 @@ The clock has also a web interface with the following functions:
 As an option, it is also possible to connect three push buttons for the stopwatch functions Start, Reset and Lap.
 A printed circuit has been made for the control function and separate PCB’s have been made to accommodate the shift registers that control the displays.
 The displays are glued in a precisely cut passepartout and put in a picture frame of IKEA, type RIBBA, 50x23 for the 4 inch displays and 50x70 for the 5 inch displays. If you only use 4 displays of 4 inch, you could use a 30x40 picture frame. The PCB’s are put in the back of the picture frame. The clock can be used standing or hanging. 
+![04E3923D-DB4A-49AA-984C-2F95C857FE4E](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/90b241ce-252c-43e6-af24-74f1e56b5de8)
