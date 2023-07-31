@@ -38,4 +38,8 @@ As a last activity: mount the backside to the picture frame. This can be done wi
 ![IMG_0090](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/15e7f65d-7957-4ac2-8088-c239942cc328)
 ![IMG_0091 (2)](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/0ba314a6-bf45-4f83-8c4d-547fc7f18401)
 
-At the first startup, the ESP is in Access Point mode. Look at your PC to find AP 5digitsclock or 6 digitsclock. A connection should be possible without a password. Go to 192.168.4.1 and fill in you WiFi details. If this is done correctly, your clock will connect to the internet and pich the right NTP time. Further details of the Software are in a separate document. 
+At the first startup, the ESP is in Access Point mode. Look at your PC to find AP 5digitsclock or 6 digitsclock. A connection should be possible without a password. Go to 192.168.4.1 
+
+![Wifimanager](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/fed5365f-9b97-408f-88a1-199096b0a289)
+
+and fill in you WiFi details. If this is done correctly, your clock will connect to the internet and pich the right NTP time. Further details of the Software are in a separate document. 
