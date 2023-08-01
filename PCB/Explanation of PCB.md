@@ -1,6 +1,6 @@
 The ESP8266 module can be directly connected to the 7 segment displays as explained in the Assembly Instructions, however, it is possible to use a dedicated PCCB for this. I ordered 5 of them at <https://jlcpcb.com/> for only 2 dollars and a few dollars shipping cost and I received them within a few weeks.
 
-![tekst]<https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/PCB/PCB_Layout.png>
+!(https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/blob/main/PCB/PCB_Layout.png)
 
 ![PCB_Layout](https://github.com/rvangelder11/Big-Digital-clock-with-5-inch-displays/assets/90907092/15401b4d-0a4d-47fe-b95f-9bd33685a60c)
 
