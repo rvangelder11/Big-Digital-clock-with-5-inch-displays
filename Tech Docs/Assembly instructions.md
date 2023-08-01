@@ -1,3 +1,5 @@
+# Assembly instructions
+
 - Remove the backside of the Ribba Picture Frame.
 - Take the passepartout and cut out the exact dimensions of the 7 segment displays.
 - Glue the displays with a glue gun to the backside of the passepartout:
