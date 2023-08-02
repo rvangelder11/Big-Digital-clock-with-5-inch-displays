@@ -1,7 +1,7 @@
 - 1x black passepartout 50x70cm cut to fit in the 50x23 picture frame (local bookstore)
 - 1x	black Ribba picture frame 50x23 cm (IKEA)
 - 1x	ESP8266 Wemos D1 (AliExpress)
-- 5x	4 inch 7 segment displays 40101BX (AliExpress)
+- 5x	4 inch 7 segment displays 40101BS (AliExpress)
 - 5x  DC 5V TPIC6C596 Large Digit Driver Driver (AliExpress)
 - 1x	power supply 3-15v, 3A, EU or US depending on need (AliExpress)
 - 5x  6 wire Dupont cable 10 cm Female-Female (AliExpress)
